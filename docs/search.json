@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Blog da Day",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-14T14:02:21-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
